@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
 
     `<h1>Cafè Palmanova</h1>
     <p>Esment Alimentació</p>
-    <img src="public/img.jpg" alt="Cafè Palmanova" width="300">`
+    <img src="/img.jpg" alt="Cafè Palmanova" width="300">`
 
   );
 });
